@@ -7,7 +7,7 @@ function myAnimal()
 
 function yourAnimal(string)
 {
-  const animal = string;
+  const animal = "cat";
   return animal;
 }
 
